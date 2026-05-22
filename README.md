@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="1280" height="640" alt="skiLLMghm" src="https://github.com/user-attachments/assets/7da0117f-b5ff-4807-b8e1-6a01189da98c" />
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&&center=true&size=20&pause=1000&color=7C7FFF&width=700&lines=Designing+modular+AI+systems;Building+interactive+simulators;Creating+developer-first+tooling" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&&center=true&size=20&pause=1000&color=c20000&width=700&lines=Designing+modular+AI+systems;Building+interactive+simulators;Creating+developer-first+tooling" />
 
 ---
 
